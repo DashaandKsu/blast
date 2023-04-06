@@ -100,6 +100,10 @@ html {
         background-image: url('electric-guitar.png');
         background-size: contain;
         background-repeat: no-repeat;
+        width: 20px;
+        height: 20px;
+        background-color: #ffffff6e;
+        border-radius: 300px;
     }
 }
 
@@ -355,7 +359,7 @@ html {
 
         background-size: cover;
         background-position: center;
-        
+
     }
     .title{
         font-size: 100px;
