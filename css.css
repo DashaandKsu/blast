@@ -351,6 +351,12 @@ html {
 }
 
 @media screen and (max-width: 1200px) {
+    .header{
+
+        background-size: cover;
+        background-position: center;
+        
+    }
     .title{
         font-size: 100px;
     }
